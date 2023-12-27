@@ -2,14 +2,24 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyuni02&layout=compact)](https://github.com/Hyuni02/github-readme-stats)
 
-<img src="https://img.shields.io/Unity-000000?style=flat&logo=badgeunity&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-
-
-<!--
-<img src="https://img.shields.io/C#-512BD4?style=flat&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/Python-3776AB?style=flat&logo=python&logoColor=white"/>
--->
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <p><strong>Know How to Use</strong></p>
+    <div>
+      <p><strong>Tools</strong></p>
+      <div>
+        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> 
+      </div>
+    </div>
+  <div>
+    <p><strong>Languages</strong></p>
+    <div>
+      <img src="https://img.shields.io/badge/C sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Java-F7DF1EF?style=for-the-badge&logo=&logoColor=white">
+    </div>
+  </div>
+</div>
 
 <!--
 **Hyuni02/Hyuni02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
