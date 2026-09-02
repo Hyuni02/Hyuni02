@@ -1,7 +1,4 @@
 # Hyuni
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyuni02&layout=compact)](https://github.com/Hyuni02/github-readme-stats)
-
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>Know How to Use</strong></p>
     <div>
